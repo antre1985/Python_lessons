@@ -1,4 +1,4 @@
-from lesson_03.Smartphone import Smartphone
+from Smartphone import Smartphone
 
 catalog = []
 phone1 = Smartphone("One_plus" , "Pro_11" , "+79393475639")
